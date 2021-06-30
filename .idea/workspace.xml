@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Найти максимальный элемент в массиве и поменять его местами с нулевым&#10;элементом">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="made some small changes (+ to *)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Task1.java" afterDir="false" />
     </list>
@@ -35,7 +35,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git repos" />
   </component>
-  <component name="RunManager" selected="Application.Task10">
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Task1" />
+      <module name="Java_Core_HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Task10" />
       <module name="Java_Core_HW" />
@@ -51,19 +64,6 @@
     </configuration>
     <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Task4" />
-      <module name="Java_Core_HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Task7" />
       <module name="Java_Core_HW" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625050442019</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="made some small changes (+ to *)">
+      <created>1625051088883</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1625051088883</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +239,7 @@
     <MESSAGE value="Найти второй по величине (т.е. следующий по величине за максимальным)&#10;элемент в массиве." />
     <MESSAGE value="Найти наименьший элемент среди элементов с четными индексами массива" />
     <MESSAGE value="Найти максимальный элемент в массиве и поменять его местами с нулевым&#10;элементом" />
-    <option name="LAST_COMMIT_MESSAGE" value="Найти максимальный элемент в массиве и поменять его местами с нулевым&#10;элементом" />
+    <MESSAGE value="made some small changes (+ to *)" />
+    <option name="LAST_COMMIT_MESSAGE" value="made some small changes (+ to *)" />
   </component>
 </project>
