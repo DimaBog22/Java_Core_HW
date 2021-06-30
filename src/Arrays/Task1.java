@@ -32,7 +32,7 @@ public class Task1 {
 
             if (item % 3 == 0) {
 
-                summ += item;
+                summ *= item;
                 System.out.print(item + " ");
 
             }
