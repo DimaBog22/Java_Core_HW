@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="«Сожмите» массив, выбросив из него каждый второй элемент.&#10;«Освободившиеся» места массива заполните нулями.">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Task6.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Проверить, различны ли все элементы массива.">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,20 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git repos" />
   </component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Task1" />
-      <module name="Java_Core_HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task7">
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Task3" />
       <module name="Java_Core_HW" />
@@ -101,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Task7" />
+      <module name="Java_Core_HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task7" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625043581162</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Проверить, различны ли все элементы массива.">
+      <created>1625047318065</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1625047318065</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +199,7 @@
     <MESSAGE value="Найти средне арифметическое элементов массива, превосходящих некоторое&#10;число С." />
     <MESSAGE value="Найти наименьший нечетный элемент массива" />
     <MESSAGE value="«Сожмите» массив, выбросив из него каждый второй элемент.&#10;«Освободившиеся» места массива заполните нулями." />
-    <option name="LAST_COMMIT_MESSAGE" value="«Сожмите» массив, выбросив из него каждый второй элемент.&#10;«Освободившиеся» места массива заполните нулями." />
+    <MESSAGE value="Проверить, различны ли все элементы массива." />
+    <option name="LAST_COMMIT_MESSAGE" value="Проверить, различны ли все элементы массива." />
   </component>
 </project>
