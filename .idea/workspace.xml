@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Найти второй по величине (т.е. следующий по величине за максимальным)&#10;элемент в массиве.">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Task9.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Найти наименьший элемент среди элементов с четными индексами массива">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Task10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +35,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git repos" />
   </component>
-  <component name="RunManager" selected="Application.Task9">
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Task5" />
+  <component name="RunManager" selected="Application.Task10">
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Task10" />
       <module name="Java_Core_HW" />
       <extension name="coverage">
         <pattern>
@@ -49,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Task6" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Task4" />
       <module name="Java_Core_HW" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Task9" />
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task8" />
         <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625048425795</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Найти наименьший элемент среди элементов с четными индексами массива">
+      <created>1625049023290</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1625049023290</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +223,7 @@
     <MESSAGE value="Проверить, различны ли все элементы массива." />
     <MESSAGE value="Подсчитать, сколько раз встречается элемент с заданным значением." />
     <MESSAGE value="Найти второй по величине (т.е. следующий по величине за максимальным)&#10;элемент в массиве." />
-    <option name="LAST_COMMIT_MESSAGE" value="Найти второй по величине (т.е. следующий по величине за максимальным)&#10;элемент в массиве." />
+    <MESSAGE value="Найти наименьший элемент среди элементов с четными индексами массива" />
+    <option name="LAST_COMMIT_MESSAGE" value="Найти наименьший элемент среди элементов с четными индексами массива" />
   </component>
 </project>
