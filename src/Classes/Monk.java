@@ -6,6 +6,14 @@ public class Monk {
     public int age;
     public double experience;
 
+    // create constructor
+
+    public Monk(int age) {
+
+        this.age = age;
+
+    }
+
     public static void repeat(String message) {
         for (int i = 0; i < 3; i++) {
             System.out.println(message);
@@ -29,19 +37,19 @@ class Executor {
 
     public static void main(String[] args) {
 
-        Monk steve = new Monk();
-        steve.age = 10;
+        Monk steve = new Monk(10);
+
         System.out.println(steve.age);
 
-        for (int i = 0; i < 10; i++) {
-            System.out.println(steve.kick());
-        }
+//        for (int i = 0; i < 10; i++) {
+//            System.out.println(steve.kick());
+//        }
 
         steve.speak("Hi low");
 
         // execution of static method repeat
-        Monk.repeat("Hiiiihihi");
-        steve.repeat("EEEE");
+//        Monk.repeat("Hiiiihihi");
+//        steve.repeat("EEEE");
 
     }
 

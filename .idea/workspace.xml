@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created steve monk">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="working with a static void repeat">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Classes/Monk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Monk.java" afterDir="false" />
     </list>
@@ -239,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625156849149</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="working with a static void repeat">
+      <created>1625159385549</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1625159385549</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +279,7 @@
     <MESSAGE value="created ClassWork class" />
     <MESSAGE value="changed name of class" />
     <MESSAGE value="created steve monk" />
-    <option name="LAST_COMMIT_MESSAGE" value="created steve monk" />
+    <MESSAGE value="working with a static void repeat" />
+    <option name="LAST_COMMIT_MESSAGE" value="working with a static void repeat" />
   </component>
 </project>
