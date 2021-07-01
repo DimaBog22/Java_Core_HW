@@ -2,6 +2,15 @@ package Classes;
 
 public class Monk {
 
+    {
+        System.out.println("Init block");
+
+    }
+
+    static {
+        System.out.println("Static init block");
+    }
+
     public short id;
     public int age;
     public double experience;
@@ -10,6 +19,7 @@ public class Monk {
 
     public Monk(int age) {
 
+        System.out.println("Constructor block");
         this.age = age;
 
     }
