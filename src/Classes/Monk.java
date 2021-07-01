@@ -6,6 +6,12 @@ public class Monk {
     public int age;
     public double experience;
 
+    public static void repeat(String message) {
+        for (int i = 0; i < 3; i++) {
+            System.out.println(message);
+        }
+    }
+
     public double kick() {
 
         double damage = Math.random();
@@ -32,6 +38,10 @@ class Executor {
         }
 
         steve.speak("Hi low");
+
+        // execution of static method repeat
+        Monk.repeat("Hiiiihihi");
+        steve.repeat("EEEE");
 
     }
 
