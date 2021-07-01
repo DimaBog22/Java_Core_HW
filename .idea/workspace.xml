@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="rewrite CurrencyConverter with Class Currency">
-      <change afterPath="$PROJECT_DIR$/src/CurrencyConverter/Converter.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created new method converter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Core_HW/CurrencyConverter/CurrencyConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Core_HW/CurrencyConverter/CurrencyConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrencyConverter/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrencyConverter/CurrencyConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CurrencyConverter/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrencyConverter/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +35,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git repos" />
   </component>
-  <component name="RunManager" selected="Application.CurrencyConverter">
-    <configuration name="CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CurrencyConverter.CurrencyConverter" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Executor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Executor" />
       <module name="Java_Core_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CurrencyConverter.*" />
+          <option name="PATTERN" value="Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Executor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Executor" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CurrencyConverter.Main" />
       <module name="Java_Core_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="CurrencyConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,7 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CurrencyConverter" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Executor" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task10" />
@@ -269,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625164219778</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="created new method converter">
+      <created>1625165209554</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1625165209554</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +311,7 @@
     <MESSAGE value="working with constuctor Monk" />
     <MESSAGE value="working with init blocks" />
     <MESSAGE value="rewrite CurrencyConverter with Class Currency" />
-    <option name="LAST_COMMIT_MESSAGE" value="rewrite CurrencyConverter with Class Currency" />
+    <MESSAGE value="created new method converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="created new method converter" />
   </component>
 </project>
