@@ -1,14 +1,21 @@
 package CurrencyConverter;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
+import java.util.concurrent.Callable;
 
 public class CurrencyConverter {
 
     public static void main(String[] args) {
 
-        double [] valueOfCurrency = {0.39, 0.33, 28.77};
-        String [] nameOfCurrency = {"USD", "EUR", "RUB"};
+        Currency [] currencyArr = new Currency[3];
+        Currency usd = new Currency("USD", 0.39);
+        Currency eur = new Currency("EUR", 0.33);
+        Currency rub = new Currency("RUB", 28.77);
+
+        currencyArr[0] = usd;
+        currencyArr[1] = eur;
+        currencyArr[2] = rub;
+
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите сумму в BYN");
@@ -21,12 +28,12 @@ public class CurrencyConverter {
         double result = 0.0;
         String finalResult = "";
 
-        for (int i = 0; i < valueOfCurrency.length; i++) {
+        for (int i = 0; i < currencyArr.length; i++) {
 
-            if (name.equals(nameOfCurrency[i])) {
+            if (name.equals(currencyArr[i].code)) {
 
-                result = number * valueOfCurrency[i];
-                finalResult = nameOfCurrency[i];
+                result = number * currencyArr[i].rate;
+                finalResult = currencyArr[i].code;
 
                 System.out.println(result + " " + finalResult);
 
@@ -37,3 +44,5 @@ public class CurrencyConverter {
     }
 
 }
+
+
