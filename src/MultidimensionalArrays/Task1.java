@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class Task1 {
 
+    // Почитать сумму четных элементов стоящих на главной диагонали.
+
     public static void main(String[] args) {
 
         System.out.println("Введите число А:");
