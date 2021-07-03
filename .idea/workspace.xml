@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й&#10;строкой и т. д.)">
-      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/TicTacToe.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="TicTacToe task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -311,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625218225013</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="TicTacToe task">
+      <created>1625233727734</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1625233727734</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,7 +333,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added Currency Converter task" />
     <MESSAGE value="Найти произведение элементов, кратных 3" />
     <MESSAGE value="Найти среднее арифметическое элементов с нечетными номерами." />
     <MESSAGE value="Найти средне арифметическое элементов массива, превосходящих некоторое&#10;число С." />
@@ -352,7 +357,8 @@
     <MESSAGE value="Посчитать сумму четных элементов стоящих на главной диагонали" />
     <MESSAGE value="Проверить произведение элементов какой диагонали больше." />
     <MESSAGE value="Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й&#10;строкой и т. д.)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й&#10;строкой и т. д.)" />
+    <MESSAGE value="TicTacToe task" />
+    <option name="LAST_COMMIT_MESSAGE" value="TicTacToe task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
