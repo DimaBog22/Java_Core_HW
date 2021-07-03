@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="TicTacToe task">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created Computer and Main classes in Computer package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Computer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +45,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git repos" />
   </component>
-  <component name="RunManager" selected="Application.TicTacToe">
-    <configuration name="Executor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Executor" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Computer.Main" />
       <module name="Java_Core_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.*" />
+          <option name="PATTERN" value="Computer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Executor" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625233727734</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="created Computer and Main classes in Computer package">
+      <created>1625322835487</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1625322835487</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,7 +342,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Найти произведение элементов, кратных 3" />
     <MESSAGE value="Найти среднее арифметическое элементов с нечетными номерами." />
     <MESSAGE value="Найти средне арифметическое элементов массива, превосходящих некоторое&#10;число С." />
     <MESSAGE value="Найти наименьший нечетный элемент массива" />
@@ -358,7 +366,8 @@
     <MESSAGE value="Проверить произведение элементов какой диагонали больше." />
     <MESSAGE value="Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й&#10;строкой и т. д.)" />
     <MESSAGE value="TicTacToe task" />
-    <option name="LAST_COMMIT_MESSAGE" value="TicTacToe task" />
+    <MESSAGE value="created Computer and Main classes in Computer package" />
+    <option name="LAST_COMMIT_MESSAGE" value="created Computer and Main classes in Computer package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
