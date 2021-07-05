@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="implemented the whole logic of class Computer">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="fixed issues with if statetements and added a new boolean variable isOn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Computer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultidimensionalArrays/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git repos" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Computer.Main" />
       <module name="Java_Core_HW" />
@@ -113,10 +112,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -333,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625326721301</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="fixed issues with if statetements and added a new boolean variable isOn">
+      <created>1625499427419</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1625499427419</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,7 +355,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Найти средне арифметическое элементов массива, превосходящих некоторое&#10;число С." />
     <MESSAGE value="Найти наименьший нечетный элемент массива" />
     <MESSAGE value="«Сожмите» массив, выбросив из него каждый второй элемент.&#10;«Освободившиеся» места массива заполните нулями." />
     <MESSAGE value="Проверить, различны ли все элементы массива." />
@@ -374,7 +379,8 @@
     <MESSAGE value="TicTacToe task" />
     <MESSAGE value="created Computer and Main classes in Computer package" />
     <MESSAGE value="implemented the whole logic of class Computer" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented the whole logic of class Computer" />
+    <MESSAGE value="fixed issues with if statetements and added a new boolean variable isOn" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed issues with if statetements and added a new boolean variable isOn" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -40,39 +40,39 @@ public class Task3 {
             System.out.println();
         }
 
-        int summMain = 0;
+        int multMain = 1;
 
         for (int i = 0; i < multArr.length; i++) {
 
             for (int j = 0; j < multArr.length; j++) {
 
                 if (i == j) {
-                    summMain += multArr[i][j];
+                    multMain *= multArr[i][j];
                 }
 
             }
 
         }
 
-        System.out.println("\nСумма элементов стоящих на главной диагонали равна " + summMain);
+        System.out.println("\nпроизведение элементов стоящих на главной диагонали равна " + multMain);
 
-        int summSecond = 0;
+        int multSecond = 1;
 
         for (int i = 0; i < multArr.length; i++) {
 
             int j = multArr.length - 1 - i;
-            summSecond += multArr[i][j];
+            multSecond *= multArr[i][j];
 
         }
 
-        System.out.println("Сумма элементов стоящих на побочной диагонали равна " + summSecond);
+        System.out.println("произведение элементов стоящих на побочной диагонали равна " + multSecond);
 
-        if (summMain > summSecond) {
-            System.out.println("Сумма " + summMain + " главной диагонали больше");
-        } else if (summMain < summSecond) {
-            System.out.println("Сумма " + summSecond + " побочной диагонали больше");
-        } else if (summMain == summSecond) {
-            System.out.println("Суммы " + summMain + " главной и побочной диагонали равны");
+        if (multMain > multSecond) {
+            System.out.println("произведение " + multMain + " главной диагонали больше");
+        } else if (multMain < multSecond) {
+            System.out.println("произведение " + multSecond + " побочной диагонали больше");
+        } else if (multMain == multSecond) {
+            System.out.println("произведение " + multMain + " главной и побочной диагонали равны");
         }
 
 
