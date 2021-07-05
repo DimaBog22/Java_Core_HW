@@ -11,6 +11,7 @@ public class Computer {
     public int workCycle = 0;
     public int workCycleLimit = 3;
     boolean isWorking = true;
+    boolean isOn = false;
 
     Computer(String cpu, String ram, String hdd) {
 
@@ -37,7 +38,7 @@ public class Computer {
             System.out.println("Количество циклов работы " + workCycle + " превышает лимит циклов работы " + workCycleLimit);
             System.out.println("Купите новый комп");
 
-        } else if (!(workCycle >= workCycleLimit) && isWorking == true){
+        } else if (isWorking == true){
 
             Random random = new Random();
             int randomNumber = random.nextInt(2);
@@ -51,6 +52,7 @@ public class Computer {
 
                     System.out.println("Добро пожаловать");
                     workCycle++;
+                    isOn = true;
 
                 } else {
 
@@ -69,7 +71,7 @@ public class Computer {
             System.out.println("Количество циклов работы " + workCycle + " превышает лимит циклов работы " + workCycleLimit);
             System.out.println("Купите новый комп");
 
-        } else if (workCycle > 1 && workCycle < workCycleLimit && isWorking == true) { // проверка на то, что нельзя нельзя выключить комп, если он не включен
+        } else if (isOn == true && isWorking == true) { // проверка на то, что нельзя нельзя выключить комп, если он не включен
 
             Random random = new Random();
             int randomNumber = random.nextInt(2);
@@ -83,6 +85,7 @@ public class Computer {
 
                     System.out.println("Всего доброго");
                     workCycle++;
+                    isOn = false;
 
                 } else {
 
