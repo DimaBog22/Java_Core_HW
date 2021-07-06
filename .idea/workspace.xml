@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="replaced summ logic to multiply">
-      <change afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal/Bat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal/Chinchilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal/Echolator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal/Mammal.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created few clases">
+      <change afterPath="$PROJECT_DIR$/src/Animal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git repos" />
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Computer.Main" />
       <module name="Java_Core_HW" />
@@ -63,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CurrencyConverter.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animal.Main" />
       <module name="Java_Core_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CurrencyConverter.*" />
+          <option name="PATTERN" value="Animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625499874274</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="created few clases">
+      <created>1625596033898</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1625596033898</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,7 +371,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="«Сожмите» массив, выбросив из него каждый второй элемент.&#10;«Освободившиеся» места массива заполните нулями." />
     <MESSAGE value="Проверить, различны ли все элементы массива." />
     <MESSAGE value="Подсчитать, сколько раз встречается элемент с заданным значением." />
     <MESSAGE value="Найти второй по величине (т.е. следующий по величине за максимальным)&#10;элемент в массиве." />
@@ -392,7 +395,8 @@
     <MESSAGE value="implemented the whole logic of class Computer" />
     <MESSAGE value="fixed issues with if statetements and added a new boolean variable isOn" />
     <MESSAGE value="replaced summ logic to multiply" />
-    <option name="LAST_COMMIT_MESSAGE" value="replaced summ logic to multiply" />
+    <MESSAGE value="created few clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="created few clases" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

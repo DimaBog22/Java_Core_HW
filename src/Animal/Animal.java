@@ -6,8 +6,8 @@ public abstract class Animal {
 
     public abstract void eat();
 
-    public void watch() {
-        System.out.println("Animal is watching");
+    public void watch(String name) {
+        System.out.println(name + " is watching");
     }
 
 }
