@@ -13,4 +13,5 @@ public class Transport {
         this.weight = weight;
         this.brand = brand;
     }
+
 }
