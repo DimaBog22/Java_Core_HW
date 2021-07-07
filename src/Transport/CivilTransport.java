@@ -23,4 +23,14 @@ public class CivilTransport extends AirTransport{
                 ", кол-во пассажиров: " + this.passengers);
     }
 
+    public void canLift(int yourPassengers) {
+
+        if (passengers > yourPassengers) {
+            System.out.println("Самолет загружен");
+        } else {
+            System.out.println("Вам нужен самолет побольше");
+        }
+
+    }
+
 }

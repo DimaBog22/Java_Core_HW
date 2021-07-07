@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added method canLift">
-      <change beforePath="$PROJECT_DIR$/src/Transport/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/Main.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created a new FreightTransport item">
+      <change beforePath="$PROJECT_DIR$/src/Transport/CivilTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/CivilTransport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -444,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625681286946</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="created a new FreightTransport item">
+      <created>1625681526720</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1625681526720</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +467,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rewrite CurrencyConverter with Class Currency" />
     <MESSAGE value="created new method converter" />
     <MESSAGE value="renamed to Main" />
     <MESSAGE value="Посчитать сумму четных элементов стоящих на главной диагонали" />
@@ -485,7 +491,8 @@
     <MESSAGE value="added Main class with main method" />
     <MESSAGE value="moved method calcCapacity to Transport class" />
     <MESSAGE value="added method canLift" />
-    <option name="LAST_COMMIT_MESSAGE" value="added method canLift" />
+    <MESSAGE value="created a new FreightTransport item" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a new FreightTransport item" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
