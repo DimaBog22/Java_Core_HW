@@ -13,10 +13,6 @@ public class MilitaryTransport extends AirTransport{
         this.rockets = rockets;
     }
 
-    public double calcCapacity(){
-        return this.capacity * 0.74;
-    }
-
     public void describe(){
         System.out.println("Размах крыльев: " + this.wingspan +
                 ", мощность в л.с.: " + this.capacity + ", макс скорость: " +

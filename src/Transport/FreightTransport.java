@@ -11,10 +11,6 @@ public class FreightTransport extends LandTransport{
         this.liftingCapacity = liftingCapacity;
     }
 
-    public double calcCapacity(){
-        return this.capacity * 0.74;
-    }
-
     public void describe(){
         System.out.println("грузоподъемность: " + this.liftingCapacity +
                 ", мощность в л.с.: " + this.capacity + ", макс скорость: " +

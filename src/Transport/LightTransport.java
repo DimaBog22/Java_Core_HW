@@ -12,10 +12,6 @@ public class LightTransport extends LandTransport {
         this.passengers = passengers;
     }
 
-    public double calcCapacity(){
-        return this.capacity * 0.74;
-    }
-
     public void describe(){
         System.out.println("кол-во пассажиров: " + this.passengers +
                 ", мощность в л.с.: " + this.capacity + ", макс скорость: " +

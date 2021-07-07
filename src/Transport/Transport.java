@@ -14,4 +14,8 @@ public class Transport {
         this.brand = brand;
     }
 
+    public double calcCapacity(){
+        return this.capacity * 0.74;
+    }
+
 }
