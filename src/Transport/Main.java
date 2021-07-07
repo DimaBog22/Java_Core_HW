@@ -9,6 +9,12 @@ public class Main {
 
         audi.showInfoAboutWay(575.5, 2.5);
 
+        FreightTransport fiat = new FreightTransport(230, 150,
+                3800,"Fiat", 4, 16, 2000);
+
+        fiat.canLift(1000);
+        fiat.canLift(2500);
+
     }
 
 }
