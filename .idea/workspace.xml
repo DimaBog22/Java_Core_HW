@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="implemented fire and canCatapult methods">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created 2 MilitaryTransport items">
       <change beforePath="$PROJECT_DIR$/src/Transport/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,13 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00001" summary="made some changes in root structure of repo">
-      <created>1624992438883</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1624992438883</updated>
     </task>
     <task id="LOCAL-00002" summary="added Currency Converter task">
       <created>1624992750331</created>
@@ -473,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625682133307</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="created 2 MilitaryTransport items">
+      <created>1625682453561</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1625682453562</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,7 +488,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Проверить произведение элементов какой диагонали больше." />
     <MESSAGE value="Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й&#10;строкой и т. д.)" />
     <MESSAGE value="TicTacToe task" />
     <MESSAGE value="created Computer and Main classes in Computer package" />
@@ -514,7 +512,8 @@
     <MESSAGE value="implemented canLift method" />
     <MESSAGE value="created a new CivilTransport item" />
     <MESSAGE value="implemented fire and canCatapult methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented fire and canCatapult methods" />
+    <MESSAGE value="created 2 MilitaryTransport items" />
+    <option name="LAST_COMMIT_MESSAGE" value="created 2 MilitaryTransport items" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

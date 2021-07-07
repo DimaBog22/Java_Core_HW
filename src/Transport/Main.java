@@ -41,6 +41,8 @@ public class Main {
         messerschmittBf29.fire();
         messerschmittBf29.fire();
 
+        audi.describe();
+
     }
 
 }
