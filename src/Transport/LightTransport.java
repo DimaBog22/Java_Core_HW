@@ -36,7 +36,7 @@ public class LightTransport extends LandTransport {
     public void showInfoAboutWay(double distance, double time) {
 
         System.out.println("За время " + time + ", автомобиль " + this.brand +
-                ", двигаясь с максимальной скоростью " + this.maxSpeed + " км/ч, проедет" +
+                ", двигаясь с максимальной скоростью " + this.maxSpeed + " км/ч, проедет " +
                 distance + " км и израсходует " + calcFuel(distance) + " литров топлива");
 
     }
