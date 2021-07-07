@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created a new CivilTransport item">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="implemented fire and canCatapult methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport/MilitaryTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/MilitaryTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transport/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -466,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625681871367</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="implemented fire and canCatapult methods">
+      <created>1625682133307</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1625682133307</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,7 +489,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Посчитать сумму четных элементов стоящих на главной диагонали" />
     <MESSAGE value="Проверить произведение элементов какой диагонали больше." />
     <MESSAGE value="Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й&#10;строкой и т. д.)" />
     <MESSAGE value="TicTacToe task" />
@@ -507,7 +513,8 @@
     <MESSAGE value="created a new FreightTransport item" />
     <MESSAGE value="implemented canLift method" />
     <MESSAGE value="created a new CivilTransport item" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a new CivilTransport item" />
+    <MESSAGE value="implemented fire and canCatapult methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented fire and canCatapult methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

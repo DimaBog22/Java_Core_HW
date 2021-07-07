@@ -22,6 +22,25 @@ public class Main {
         boeing737.canLift(100);
         boeing737.canLift(250);
 
+        MilitaryTransport messerschmittBf109 = new MilitaryTransport(600,
+                2000, 7000, "Messerschmitt Bf 109",
+                1000, 1000, true, 3);
+
+        messerschmittBf109.canCatapult();
+        messerschmittBf109.fire();
+        messerschmittBf109.fire();
+        messerschmittBf109.fire();
+        messerschmittBf109.fire();
+        messerschmittBf109.fire();
+
+        MilitaryTransport messerschmittBf29 = new MilitaryTransport(400,
+                1600, 8000, "Messerschmitt Bf 29",
+                1000, 1000, false, 1);
+
+        messerschmittBf29.canCatapult();
+        messerschmittBf29.fire();
+        messerschmittBf29.fire();
+
     }
 
 }
