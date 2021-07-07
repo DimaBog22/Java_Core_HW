@@ -15,6 +15,13 @@ public class Main {
         fiat.canLift(1000);
         fiat.canLift(2500);
 
+        CivilTransport boeing737 = new CivilTransport(2000, 1200,
+                15000, "Boeing 737", 2000, 2000,
+                150, true);
+
+        boeing737.canLift(100);
+        boeing737.canLift(250);
+
     }
 
 }
