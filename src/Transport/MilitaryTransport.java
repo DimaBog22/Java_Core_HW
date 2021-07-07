@@ -24,4 +24,27 @@ public class MilitaryTransport extends AirTransport{
                 + this.rockets);
     }
 
+    public void fire() {
+
+        if (rockets > 0) {
+
+            System.out.println("Ракета пошла…");
+            rockets--;
+
+        } else if (rockets == 0) {
+            System.out.println("Боеприпасы отсутствуют");
+        }
+
+    }
+
+    public void canCatapult() {
+
+        if (isCatapult) {
+            System.out.println("Катапультирование прошло успешно");
+        } else {
+            System.out.println("У вас нет такой системы");
+        }
+
+    }
+
 }
