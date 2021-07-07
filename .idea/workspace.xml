@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added Main class">
-      <change afterPath="$PROJECT_DIR$/src/Animal/PeopleLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal/Reptile.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added few Classes">
+      <change afterPath="$PROJECT_DIR$/src/Transport/Transport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -363,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625596710537</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="added few Classes">
+      <created>1625597494463</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1625597494463</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +384,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Подсчитать, сколько раз встречается элемент с заданным значением." />
     <MESSAGE value="Найти второй по величине (т.е. следующий по величине за максимальным)&#10;элемент в массиве." />
     <MESSAGE value="Найти наименьший элемент среди элементов с четными индексами массива" />
     <MESSAGE value="Найти максимальный элемент в массиве и поменять его местами с нулевым&#10;элементом" />
@@ -404,7 +408,8 @@
     <MESSAGE value="replaced summ logic to multiply" />
     <MESSAGE value="created few clases" />
     <MESSAGE value="added Main class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Main class" />
+    <MESSAGE value="added few Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added few Classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
