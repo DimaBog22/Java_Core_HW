@@ -25,4 +25,20 @@ public class LightTransport extends LandTransport {
                 this.type + ", мощность в кВ: " + calcCapacity());
     }
 
+    private double calcFuel(double distance) {
+
+        //Дистанцию умножить на Расход и разделить на 100
+
+        return distance * this.fuelConsumption / 100;
+
+    }
+
+    public void showInfoAboutWay(double distance, double time) {
+
+        System.out.println("За время " + time + ", автомобиль " + this.brand +
+                ", двигаясь с максимальной скоростью " + this.maxSpeed + " км/ч, проедет" +
+                distance + " км и израсходует " + calcFuel(distance) + " литров топлива");
+
+    }
+
 }

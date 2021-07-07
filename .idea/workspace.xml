@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added the second line of inheritance (AirTransport). Added constructors to parent and child classes">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added methods describe with the whole description and calcCapacity">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport/CivilTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/CivilTransport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport/FreightTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/FreightTransport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Transport/LightTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/LightTransport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport/MilitaryTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/MilitaryTransport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/Transport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625674487756</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="added methods describe with the whole description and calcCapacity">
+      <created>1625675985543</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1625675985543</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +433,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed name of class" />
     <MESSAGE value="created steve monk" />
     <MESSAGE value="working with a static void repeat" />
     <MESSAGE value="working with constuctor Monk" />
@@ -455,7 +457,8 @@
     <MESSAGE value="added the second line of inheritance (LandTransport). Added constructors to child classes" />
     <MESSAGE value="added the second line of inheritance (LandTransport). Added constructors to parent and child classes" />
     <MESSAGE value="added the second line of inheritance (AirTransport). Added constructors to parent and child classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the second line of inheritance (AirTransport). Added constructors to parent and child classes" />
+    <MESSAGE value="added methods describe with the whole description and calcCapacity" />
+    <option name="LAST_COMMIT_MESSAGE" value="added methods describe with the whole description and calcCapacity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
