@@ -19,4 +19,15 @@ public class FreightTransport extends LandTransport{
                 ", расход топлива: " + this.fuelConsumption +
                 ", мощность в кВ: " + calcCapacity());
     }
+
+    public void canLift(int yourWeight) {
+
+        if (liftingCapacity > yourWeight) {
+            System.out.println("Грузовик загружен");
+        } else {
+            System.out.println("Вам нужен грузовик побольше");
+        }
+
+    }
+
 }
