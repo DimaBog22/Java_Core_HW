@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created 2 MilitaryTransport items">
-      <change beforePath="$PROJECT_DIR$/src/Transport/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport/Main.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="cheched describe method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Computer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git repos" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Computer.Main" />
       <module name="Java_Core_HW" />
@@ -112,10 +114,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.TicTacToe" />
       </list>
     </recent_temporary>
@@ -128,13 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00002" summary="added Currency Converter task">
-      <created>1624992750331</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1624992750331</updated>
     </task>
     <task id="LOCAL-00003" summary="Найти произведение элементов, кратных 3">
       <created>1625038507649</created>
@@ -472,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625682453562</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="cheched describe method">
+      <created>1625682634067</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1625682634067</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +490,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й&#10;строкой и т. д.)" />
     <MESSAGE value="TicTacToe task" />
     <MESSAGE value="created Computer and Main classes in Computer package" />
     <MESSAGE value="implemented the whole logic of class Computer" />
@@ -513,7 +514,8 @@
     <MESSAGE value="created a new CivilTransport item" />
     <MESSAGE value="implemented fire and canCatapult methods" />
     <MESSAGE value="created 2 MilitaryTransport items" />
-    <option name="LAST_COMMIT_MESSAGE" value="created 2 MilitaryTransport items" />
+    <MESSAGE value="cheched describe method" />
+    <option name="LAST_COMMIT_MESSAGE" value="cheched describe method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -38,6 +38,10 @@ public class Computer {
             System.out.println("Количество циклов работы " + workCycle + " превышает лимит циклов работы " + workCycleLimit);
             System.out.println("Купите новый комп");
 
+        } else if (isOn == true) {
+
+            System.out.println("Вы не можете включить уже включенный комп");
+
         } else if (isWorking == true){
 
             Random random = new Random();

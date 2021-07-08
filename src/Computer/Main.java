@@ -8,6 +8,7 @@ public class Main {
 
         pc.print();
         pc.switchOn();
+//        pc.switchOn();
         pc.switchOff();
         pc.switchOff();
         pc.switchOn();
