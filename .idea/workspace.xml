@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="cheched describe method">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added additional condition">
+      <change afterPath="$PROJECT_DIR$/src/Robot/IHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Robot/IHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Robot/ILeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Robot/SonyHead.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Computer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -130,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Найти произведение элементов, кратных 3">
-      <created>1625038507649</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1625038507649</updated>
     </task>
     <task id="LOCAL-00004" summary="Найти среднее арифметическое элементов с нечетными номерами.">
       <created>1625038627451</created>
@@ -474,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625682634067</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="added additional condition">
+      <created>1625762139271</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1625762139272</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +492,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TicTacToe task" />
     <MESSAGE value="created Computer and Main classes in Computer package" />
     <MESSAGE value="implemented the whole logic of class Computer" />
     <MESSAGE value="fixed issues with if statetements and added a new boolean variable isOn" />
@@ -515,7 +516,8 @@
     <MESSAGE value="implemented fire and canCatapult methods" />
     <MESSAGE value="created 2 MilitaryTransport items" />
     <MESSAGE value="cheched describe method" />
-    <option name="LAST_COMMIT_MESSAGE" value="cheched describe method" />
+    <MESSAGE value="added additional condition" />
+    <option name="LAST_COMMIT_MESSAGE" value="added additional condition" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
