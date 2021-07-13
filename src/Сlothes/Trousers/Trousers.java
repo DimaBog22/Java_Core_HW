@@ -1,6 +1,6 @@
-package Сlothes;
+package Сlothes.Trousers;
 
-public interface Jacket {
+public interface Trousers {
 
     public void putOn();
     public void takeOff();

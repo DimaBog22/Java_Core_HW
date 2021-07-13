@@ -1,4 +1,4 @@
-package Сlothes;
+package Сlothes.Footwear;
 
 public interface Footwear {
 
