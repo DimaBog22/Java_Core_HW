@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created a new package with 3 Interfaces (jacket,trousers,footwear)">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added 2 items to Footwear package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Jacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Jacket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Trousers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Trousers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear/RunningShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear/RunningShoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear/WorkingShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear/WorkingShoes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -136,27 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00007" summary="«Сожмите» массив, выбросив из него каждый второй элемент.&#10;«Освободившиеся» места массива заполните нулями.">
-      <created>1625043581162</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1625043581162</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Проверить, различны ли все элементы массива.">
-      <created>1625047318065</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1625047318065</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Подсчитать, сколько раз встречается элемент с заданным значением.">
-      <created>1625047773213</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1625047773213</updated>
     </task>
     <task id="LOCAL-00010" summary="Найти второй по величине (т.е. следующий по величине за максимальным)&#10;элемент в массиве.">
       <created>1625048425795</created>
@@ -480,7 +458,28 @@
       <option name="project" value="LOCAL" />
       <updated>1626187575401</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="added 2 methods to each Interface (putOn and takeOff)">
+      <created>1626187741532</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1626187741532</updated>
+    </task>
+    <task id="LOCAL-00057" summary="replaced Interfaces to packages">
+      <created>1626187888497</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1626187888497</updated>
+    </task>
+    <task id="LOCAL-00058" summary="added 2 items to Footwear package">
+      <created>1626187982773</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1626187982773</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,9 +495,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="replaced summ logic to multiply" />
-    <MESSAGE value="created few clases" />
-    <MESSAGE value="added Main class" />
     <MESSAGE value="added few Classes" />
     <MESSAGE value="created class Transport" />
     <MESSAGE value="created child classes" />
@@ -521,7 +517,10 @@
     <MESSAGE value="implemented few Interfaces" />
     <MESSAGE value="removed" />
     <MESSAGE value="created a new package with 3 Interfaces (jacket,trousers,footwear)" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a new package with 3 Interfaces (jacket,trousers,footwear)" />
+    <MESSAGE value="added 2 methods to each Interface (putOn and takeOff)" />
+    <MESSAGE value="replaced Interfaces to packages" />
+    <MESSAGE value="added 2 items to Footwear package" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 2 items to Footwear package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
