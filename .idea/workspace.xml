@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Overrided putOn and takeOff methods, added private field nameOfShoes into Pants and Jeans classes">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="refactored name of private field to name">
+      <change afterPath="$PROJECT_DIR$/src/Сlothes/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear/RunningShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear/RunningShoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear/WorkingShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear/WorkingShoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Jacket/Coat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Jacket/Coat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Jacket/Windbreaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Jacket/Windbreaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Trousers/Jeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Trousers/Jeans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Trousers/Pants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Trousers/Pants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00013" summary="made some small changes (+ to *)">
-      <created>1625051088883</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1625051088883</updated>
     </task>
     <task id="LOCAL-00014" summary="rewrote the whole logic">
       <created>1625051766413</created>
@@ -483,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626188676773</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="refactored name of private field to name">
+      <created>1626188789357</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1626188789357</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +494,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added the first line of inheritance. Added constructors to parent and child classes" />
     <MESSAGE value="added the second line of inheritance (LandTransport). Added constructors to child classes" />
     <MESSAGE value="added the second line of inheritance (LandTransport). Added constructors to parent and child classes" />
     <MESSAGE value="added the second line of inheritance (AirTransport). Added constructors to parent and child classes" />
@@ -524,7 +518,8 @@
     <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into RunningShoes and WorkingShoes classes" />
     <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into Coat and Windbreaker classes" />
     <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into Pants and Jeans classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Overrided putOn and takeOff methods, added private field nameOfShoes into Pants and Jeans classes" />
+    <MESSAGE value="refactored name of private field to name" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored name of private field to name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
