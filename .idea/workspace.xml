@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="changed to name">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="made costuctors public">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear/RunningShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear/RunningShoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear/WorkingShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear/WorkingShoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Jacket/Coat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Jacket/Coat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Jacket/Windbreaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Jacket/Windbreaker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Сlothes/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Trousers/Jeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Trousers/Jeans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Сlothes/Trousers/Pants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Trousers/Pants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00017" summary="created steve monk">
-      <created>1625156849149</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1625156849149</updated>
     </task>
     <task id="LOCAL-00018" summary="working with a static void repeat">
       <created>1625159385549</created>
@@ -485,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626189967317</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="made costuctors public">
+      <created>1626190308912</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1626190308912</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,7 +494,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added the second line of inheritance (AirTransport). Added constructors to parent and child classes" />
     <MESSAGE value="added methods describe with the whole description and calcCapacity" />
     <MESSAGE value="implemented showInfoAboutWay and calcFuel methods" />
     <MESSAGE value="added Main class with main method" />
@@ -526,7 +518,8 @@
     <MESSAGE value="refactored name of private field to name" />
     <MESSAGE value="implemented Human class with footwer, jacket, trousers and name fields. Methods are also overrided" />
     <MESSAGE value="changed to name" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed to name" />
+    <MESSAGE value="made costuctors public" />
+    <option name="LAST_COMMIT_MESSAGE" value="made costuctors public" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
