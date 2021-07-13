@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="removed">
-      <change afterPath="$PROJECT_DIR$/src/Сlothes/Jacket.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created a new package with 3 Interfaces (jacket,trousers,footwear)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Jacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Jacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Trousers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Trousers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -134,13 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Найти наименьший нечетный элемент массива">
-      <created>1625040903816</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1625040903816</updated>
     </task>
     <task id="LOCAL-00007" summary="«Сожмите» массив, выбросив из него каждый второй элемент.&#10;«Освободившиеся» места массива заполните нулями.">
       <created>1625043581162</created>
@@ -478,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626083760612</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="created a new package with 3 Interfaces (jacket,trousers,footwear)">
+      <created>1626187575401</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1626187575401</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +496,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed issues with if statetements and added a new boolean variable isOn" />
     <MESSAGE value="replaced summ logic to multiply" />
     <MESSAGE value="created few clases" />
     <MESSAGE value="added Main class" />
@@ -519,7 +520,8 @@
     <MESSAGE value="added additional condition" />
     <MESSAGE value="implemented few Interfaces" />
     <MESSAGE value="removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed" />
+    <MESSAGE value="created a new package with 3 Interfaces (jacket,trousers,footwear)" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a new package with 3 Interfaces (jacket,trousers,footwear)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
