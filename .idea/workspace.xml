@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Overrided putOn and takeOff methods, added private field nameOfShoes into RunningShoes and WorkingShoes classes">
-      <change afterPath="$PROJECT_DIR$/src/Сlothes/Jacket/Coat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Сlothes/Jacket/Windbreaker.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Overrided putOn and takeOff methods, added private field nameOfShoes into Coat and Windbreaker classes">
+      <change afterPath="$PROJECT_DIR$/src/Сlothes/Trousers/Jeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Сlothes/Trousers/Pants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Найти наименьший элемент среди элементов с четными индексами массива">
-      <created>1625049023290</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1625049023290</updated>
     </task>
     <task id="LOCAL-00012" summary="Найти максимальный элемент в массиве и поменять его местами с нулевым&#10;элементом">
       <created>1625050442019</created>
@@ -479,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626188353640</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Overrided putOn and takeOff methods, added private field nameOfShoes into Coat and Windbreaker classes">
+      <created>1626188526859</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1626188526859</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,7 +495,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created class Transport" />
     <MESSAGE value="created child classes" />
     <MESSAGE value="added the first line of inheritance. Added constructors to parent and child classes" />
     <MESSAGE value="added the second line of inheritance (LandTransport). Added constructors to child classes" />
@@ -520,7 +519,8 @@
     <MESSAGE value="replaced Interfaces to packages" />
     <MESSAGE value="added 2 items to Footwear package" />
     <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into RunningShoes and WorkingShoes classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Overrided putOn and takeOff methods, added private field nameOfShoes into RunningShoes and WorkingShoes classes" />
+    <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into Coat and Windbreaker classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overrided putOn and takeOff methods, added private field nameOfShoes into Coat and Windbreaker classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
