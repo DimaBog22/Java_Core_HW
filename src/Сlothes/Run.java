@@ -26,10 +26,10 @@ public class Run {
         mike.putOn();
         mike.takeOff();
 
+        System.out.println("***");
+
         carl.putOn();
         carl.takeOff();
-
-
 
 
     }
