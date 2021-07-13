@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="refactored name of private field to name">
-      <change afterPath="$PROJECT_DIR$/src/Сlothes/Human.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="implemented Human class with footwer, jacket, trousers and name fields. Methods are also overrided">
+      <change afterPath="$PROJECT_DIR$/src/Сlothes/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00014" summary="rewrote the whole logic">
-      <created>1625051766413</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1625051766413</updated>
     </task>
     <task id="LOCAL-00015" summary="created ClassWork class">
       <created>1625156323888</created>
@@ -478,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626188789357</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="implemented Human class with footwer, jacket, trousers and name fields. Methods are also overrided">
+      <created>1626189514923</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1626189514923</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +494,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added the second line of inheritance (LandTransport). Added constructors to child classes" />
     <MESSAGE value="added the second line of inheritance (LandTransport). Added constructors to parent and child classes" />
     <MESSAGE value="added the second line of inheritance (AirTransport). Added constructors to parent and child classes" />
     <MESSAGE value="added methods describe with the whole description and calcCapacity" />
@@ -519,7 +518,8 @@
     <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into Coat and Windbreaker classes" />
     <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into Pants and Jeans classes" />
     <MESSAGE value="refactored name of private field to name" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored name of private field to name" />
+    <MESSAGE value="implemented Human class with footwer, jacket, trousers and name fields. Methods are also overrided" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented Human class with footwer, jacket, trousers and name fields. Methods are also overrided" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
