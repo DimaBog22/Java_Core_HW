@@ -4,7 +4,7 @@ public class Jeans implements Trousers {
 
     private String name;
 
-    Jeans(String name) {
+    public Jeans(String name) {
         this.name = name;
     }
 

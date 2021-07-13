@@ -1,8 +1,8 @@
 package Сlothes;
 
-import Сlothes.Footwear.Footwear;
-import Сlothes.Footwear.RunningShoes;
-import Сlothes.Footwear.WorkingShoes;
+import Сlothes.Footwear.*;
+import Сlothes.Jacket.*;
+import Сlothes.Trousers.*;
 
 public class Run {
 

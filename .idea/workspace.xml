@@ -3,8 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="changed to name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear/RunningShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear/RunningShoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Footwear/WorkingShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Footwear/WorkingShoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Сlothes/Jacket/Coat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Jacket/Coat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Сlothes/Jacket/Windbreaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Jacket/Windbreaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Trousers/Jeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Trousers/Jeans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Сlothes/Trousers/Pants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Сlothes/Trousers/Pants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,13 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00016" summary="changed name of class">
-      <created>1625156428015</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1625156428015</updated>
     </task>
     <task id="LOCAL-00017" summary="created steve monk">
       <created>1625156849149</created>
@@ -479,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626189913498</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="changed to name">
+      <created>1626189967317</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1626189967317</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

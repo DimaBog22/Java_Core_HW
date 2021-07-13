@@ -11,7 +11,7 @@ public class Human implements Footwear, Jacket, Trousers {
     private Jacket jacket;
     private Trousers trousers;
 
-    Human(String name, Footwear footwer,
+    public Human(String name, Footwear footwer,
           Jacket jacket, Trousers trousers) {
 
         this.name = name;

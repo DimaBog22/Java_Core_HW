@@ -4,7 +4,7 @@ public class Windbreaker implements Jacket{
 
     private String name;
 
-    Windbreaker (String name) {
+    public Windbreaker (String name) {
         this.name = name;
     }
 

@@ -4,7 +4,7 @@ public class Coat implements Jacket{
 
     private String name;
 
-    Coat (String name) {
+    public Coat (String name) {
         this.name = name;
     }
 
