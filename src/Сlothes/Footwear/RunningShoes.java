@@ -2,21 +2,21 @@ package Сlothes.Footwear;
 
 public class RunningShoes implements Footwear{
 
-    private String nameOfShoes;
+    private String name;
 
     RunningShoes (String name) {
-        this.nameOfShoes = name;
+        this.name = name;
     }
 
     @Override
     public void putOn() {
-        System.out.println(nameOfShoes + " одеты");
+        System.out.println(name + " одеты");
     }
 
 
     @Override
     public void takeOff() {
-        System.out.println(nameOfShoes + " сняты");
+        System.out.println(name + " сняты");
     }
 
 }
