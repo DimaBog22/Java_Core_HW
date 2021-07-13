@@ -2,21 +2,21 @@ package Сlothes.Jacket;
 
 public class Windbreaker implements Jacket{
 
-    private String nameOfShoes;
+    private String name;
 
     Windbreaker (String name) {
-        this.nameOfShoes = name;
+        this.name = name;
     }
 
     @Override
     public void putOn() {
-        System.out.println(nameOfShoes + " одеты");
+        System.out.println(name + " одеты");
     }
 
 
     @Override
     public void takeOff() {
-        System.out.println(nameOfShoes + " сняты");
+        System.out.println(name + " сняты");
     }
 
 }
