@@ -20,7 +20,7 @@ public class Shuttle implements IStart {
 
     @Override
     public void launch() {
-        System.out.println("вигатели Шатла запущены. Все системы в норме");
+        System.out.println("Двигатели Шатла запущены. Все системы в норме");
     }
 
     @Override
