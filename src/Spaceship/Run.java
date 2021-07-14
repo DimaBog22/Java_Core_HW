@@ -6,8 +6,11 @@ public class Run {
 
         Spaceport baikonur = new Spaceport();
         IStart shuttleX99 = new Shuttle();
+        IStart spaceX112 = new SpaceX();
 
         baikonur.lauch(shuttleX99);
+        System.out.println("***");
+        baikonur.lauch(spaceX112);
 
     }
 
