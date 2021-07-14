@@ -6,7 +6,9 @@ public class Task1 {
 
     public static void main(String[] args) {
 
-        String string = "Hi, my name is Majo";
+        System.out.println("Введите ваше предложение:");
+        Scanner sctr = new Scanner(System.in);
+        String string = sctr.nextLine();
         System.out.println("Целое предложение:" + "\n" + string);
 
         System.out.println("Введите индекс А");

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Вырезать подстроку из строки начиная с первого вхождения символа(А) до,&#10;последнего вхождения сивола(B).">
-      <change afterPath="$PROJECT_DIR$/src/StringsHW/Task2.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="Заменить все вхождения символа стоящего в позиции (3) на сивол стоящий в&#10;позиции 0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringsHW/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsHW/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="D:\TMS HW javaCore\Java_Core_HW" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task2">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Computer.Main" />
       <module name="Java_Core_HW" />
@@ -118,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.Main (1)" />
@@ -134,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00030" summary="fixed issues with if statetements and added a new boolean variable isOn">
-      <created>1625499427419</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1625499427419</updated>
     </task>
     <task id="LOCAL-00031" summary="replaced summ logic to multiply">
       <created>1625499874274</created>
@@ -478,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626280677993</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Заменить все вхождения символа стоящего в позиции (3) на сивол стоящий в&#10;позиции 0">
+      <created>1626281236336</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1626281236336</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +494,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="implemented few Interfaces" />
     <MESSAGE value="removed" />
     <MESSAGE value="created a new package with 3 Interfaces (jacket,trousers,footwear)" />
     <MESSAGE value="added 2 methods to each Interface (putOn and takeOff)" />
@@ -519,7 +518,8 @@
     <MESSAGE value="added class SpaceX implemented IStart" />
     <MESSAGE value="added new object of SpaceX class" />
     <MESSAGE value="Вырезать подстроку из строки начиная с первого вхождения символа(А) до,&#10;последнего вхождения сивола(B)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Вырезать подстроку из строки начиная с первого вхождения символа(А) до,&#10;последнего вхождения сивола(B)." />
+    <MESSAGE value="Заменить все вхождения символа стоящего в позиции (3) на сивол стоящий в&#10;позиции 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Заменить все вхождения символа стоящего в позиции (3) на сивол стоящий в&#10;позиции 0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
