@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added class Shuttle">
-      <change afterPath="$PROJECT_DIR$/src/Spaceship/Run.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="changed loop for logic">
+      <change afterPath="$PROJECT_DIR$/src/Spaceship/SpaceX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,20 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Проверить произведение элементов какой диагонали больше.">
-      <created>1625217922710</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1625217922710</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й&#10;строкой и т. д.)">
-      <created>1625218225013</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1625218225013</updated>
     </task>
     <task id="LOCAL-00027" summary="TicTacToe task">
       <created>1625233727734</created>
@@ -477,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626272358725</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="added executor class Run with objects of IStart and Spaceport">
+      <created>1626272556863</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1626272556863</updated>
+    </task>
+    <task id="LOCAL-00075" summary="changed loop for logic">
+      <created>1626272663750</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1626272663750</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,8 +494,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created a new CivilTransport item" />
-    <MESSAGE value="implemented fire and canCatapult methods" />
     <MESSAGE value="created 2 MilitaryTransport items" />
     <MESSAGE value="cheched describe method" />
     <MESSAGE value="added additional condition" />
@@ -518,7 +517,9 @@
     <MESSAGE value="created class Spaceport with method lauch" />
     <MESSAGE value="added new logic to method lauch" />
     <MESSAGE value="added class Shuttle" />
-    <option name="LAST_COMMIT_MESSAGE" value="added class Shuttle" />
+    <MESSAGE value="added executor class Run with objects of IStart and Spaceport" />
+    <MESSAGE value="changed loop for logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed loop for logic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
