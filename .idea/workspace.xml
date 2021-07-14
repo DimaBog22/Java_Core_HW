@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="small changes">
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="created package Spaceship with interface IStart">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spaceship/IStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spaceship/IStart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -133,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00020" summary="working with init blocks">
-      <created>1625162997244</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1625162997244</updated>
     </task>
     <task id="LOCAL-00021" summary="rewrite CurrencyConverter with Class Currency">
       <created>1625164219778</created>
@@ -477,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626190841147</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="created package Spaceship with interface IStart">
+      <created>1626270971107</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1626270971107</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +494,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added Main class with main method" />
     <MESSAGE value="moved method calcCapacity to Transport class" />
     <MESSAGE value="added method canLift" />
     <MESSAGE value="created a new FreightTransport item" />
@@ -518,7 +518,8 @@
     <MESSAGE value="made costuctors public" />
     <MESSAGE value="created some objects for testing" />
     <MESSAGE value="small changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="small changes" />
+    <MESSAGE value="created package Spaceship with interface IStart" />
+    <option name="LAST_COMMIT_MESSAGE" value="created package Spaceship with interface IStart" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
