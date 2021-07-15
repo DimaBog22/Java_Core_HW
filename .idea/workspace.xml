@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added additional scanner for input string">
-      <change afterPath="$PROJECT_DIR$/src/StringsHW/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="создать файл, который будет содержать в себе&#10;только пaлиндромы">
+      <change beforePath="$PROJECT_DIR$/src/StringsHW/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsHW/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00032" summary="created few clases">
-      <created>1625596033898</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1625596033898</updated>
     </task>
     <task id="LOCAL-00033" summary="added Main class">
       <created>1625596710537</created>
@@ -478,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626281391349</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="создать файл, который будет содержать в себе&#10;только пaлиндромы">
+      <created>1626354343938</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1626354343938</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +493,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created a new package with 3 Interfaces (jacket,trousers,footwear)" />
     <MESSAGE value="added 2 methods to each Interface (putOn and takeOff)" />
     <MESSAGE value="replaced Interfaces to packages" />
     <MESSAGE value="added 2 items to Footwear package" />
@@ -519,7 +517,8 @@
     <MESSAGE value="Вырезать подстроку из строки начиная с первого вхождения символа(А) до,&#10;последнего вхождения сивола(B)." />
     <MESSAGE value="Заменить все вхождения символа стоящего в позиции (3) на сивол стоящий в&#10;позиции 0" />
     <MESSAGE value="added additional scanner for input string" />
-    <option name="LAST_COMMIT_MESSAGE" value="added additional scanner for input string" />
+    <MESSAGE value="создать файл, который будет содержать в себе&#10;только пaлиндромы" />
+    <option name="LAST_COMMIT_MESSAGE" value="создать файл, который будет содержать в себе&#10;только пaлиндромы" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

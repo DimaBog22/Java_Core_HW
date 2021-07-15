@@ -24,7 +24,6 @@ public class Task3 {
         System.out.println("\nВсе палиндромы, находящиеся в файле:" +
                 "\n" + outputStr);
 
-
     }
 
     public boolean isPalindrome(String str) {
