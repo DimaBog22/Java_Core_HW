@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="создать файл, который будет содержать в себе&#10;только пaлиндромы">
-      <change afterPath="$PROJECT_DIR$/src/StringsHW/TextFormater.java" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="implemented TextFormater class which calculate count of words in String and chech if the word is a palindrome">
+      <change afterPath="$PROJECT_DIR$/src/Shop/Item.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00034" summary="added few Classes">
-      <created>1625597494463</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1625597494463</updated>
     </task>
     <task id="LOCAL-00035" summary="created class Transport">
       <created>1625672940511</created>
@@ -478,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626354370856</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="implemented TextFormater class which calculate count of words in String and chech if the word is a palindrome">
+      <created>1626707244376</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1626707244376</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +494,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added 2 methods to each Interface (putOn and takeOff)" />
     <MESSAGE value="replaced Interfaces to packages" />
     <MESSAGE value="added 2 items to Footwear package" />
     <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into RunningShoes and WorkingShoes classes" />
@@ -519,7 +518,8 @@
     <MESSAGE value="Заменить все вхождения символа стоящего в позиции (3) на сивол стоящий в&#10;позиции 0" />
     <MESSAGE value="added additional scanner for input string" />
     <MESSAGE value="создать файл, который будет содержать в себе&#10;только пaлиндромы" />
-    <option name="LAST_COMMIT_MESSAGE" value="создать файл, который будет содержать в себе&#10;только пaлиндромы" />
+    <MESSAGE value="implemented TextFormater class which calculate count of words in String and chech if the word is a palindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented TextFormater class which calculate count of words in String and chech if the word is a palindrome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
