@@ -8,7 +8,7 @@ public class Main {
         Shop pobedy15 = new Shop();
         pobedy15.addItem(adidasEasy);
 
-        System.out.println(pobedy15.listOfItems);
+        System.out.println(pobedy15.getListOfItems());
 
     }
 
