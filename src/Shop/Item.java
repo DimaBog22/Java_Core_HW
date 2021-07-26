@@ -2,9 +2,22 @@ package Shop;
 
 public class Item {
 
-    protected int id;
-    protected String name;
-    protected int price;
+    private int id;
+    private String name;
+    private int price;
+
+    // getters
+    public int getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getPrice() {
+        return price;
+    }
 
     Item(int id, String name, int price) {
 
