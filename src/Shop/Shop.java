@@ -19,10 +19,13 @@ public class Shop {
         listOfItems.remove(item.id);
     }
 
+    public void changeItem(Item item, int newId, String newName, int newPrice) {
 
+        item.setId(newId);
+        item.setName(newName);
+        item.setPrice(newPrice);
 
-
-
+    }
 
 
 }
