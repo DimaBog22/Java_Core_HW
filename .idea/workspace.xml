@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="implemented class Main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a0a18ce9-8eae-4e0f-b91f-4917a6fb177c" name="Default Changelist" comment="added getListOfItems and deleteItem methods to class Shop">
       <change beforePath="$PROJECT_DIR$/src/Shop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shop/Shop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624992360368</updated>
-    </task>
-    <task id="LOCAL-00038" summary="added the second line of inheritance (LandTransport). Added constructors to parent and child classes">
-      <created>1625674272615</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1625674272615</updated>
     </task>
     <task id="LOCAL-00039" summary="added the second line of inheritance (LandTransport). Added constructors to parent and child classes">
       <created>1625674414016</created>
@@ -479,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627289001608</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="added getListOfItems and deleteItem methods to class Shop">
+      <created>1627292293407</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1627292293408</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,7 +493,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into RunningShoes and WorkingShoes classes" />
     <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into Coat and Windbreaker classes" />
     <MESSAGE value="Overrided putOn and takeOff methods, added private field nameOfShoes into Pants and Jeans classes" />
     <MESSAGE value="refactored name of private field to name" />
@@ -520,7 +517,8 @@
     <MESSAGE value="implemented TextFormater class which calculate count of words in String and chech if the word is a palindrome" />
     <MESSAGE value="implemented class Item" />
     <MESSAGE value="implemented class Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented class Main" />
+    <MESSAGE value="added getListOfItems and deleteItem methods to class Shop" />
+    <option name="LAST_COMMIT_MESSAGE" value="added getListOfItems and deleteItem methods to class Shop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
