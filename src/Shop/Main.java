@@ -16,6 +16,10 @@ public class Main {
 
         System.out.println(pobedy15.getListOfItems());
 
+        pobedy15.changeItem(adidasEasy2, "adidas easy 222");
+        System.out.println(pobedy15.getListOfItems());
+
+
     }
 
 }
